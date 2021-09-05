@@ -1,0 +1,6 @@
+
+-- CRIAR (CREATE), DROP(DELETAR)
+CREATE DATABASE meubanco;
+
+
+

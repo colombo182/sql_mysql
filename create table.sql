@@ -1,0 +1,6 @@
+-- CRIAR (CREATE), DROP(DELETAR)
+CREATE TABLE minhaTabela (
+	nome VARCHAR(100)
+);
+
+
